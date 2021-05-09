@@ -22,7 +22,7 @@ func main() {
 	}
 
 	/*
-		this will not work return: too many variables in range
+		this will not work returns: too many variables in range
 		for i, j, v := range x {
 			fmt.Println(i, j, v)
 		}
